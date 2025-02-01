@@ -1,7 +1,7 @@
 <h1 align="center">Iae, sou o Nogueira :)</h1>
 
 <p align="center">
-  💻 Estudante de Engenharia de Computação | 🌍 Desenvolvedor Backend, com foco em cloud
+  💻 Estudante de Engenharia de Computação | 🌍 Desenvolvedor Backend | Atualmente estagiando em uma Fintech
 </p><br><br>
 
 
